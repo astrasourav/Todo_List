@@ -1,2 +1,2 @@
-# Todo_List
-To Do App with CRUD operation (without a database)
+# reactjs-todolist
+ CRUD TODO APP W. REACTJS
